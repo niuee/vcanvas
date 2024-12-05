@@ -131,6 +131,6 @@ dist
 
 build
 
-docs-staging
+# docs-staging
 
-translations/staging
+# translations/staging
